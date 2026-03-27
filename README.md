@@ -1,5 +1,3 @@
-# -Sales-EDA-SQL-Server-Project
-
 # 🛒 Sales EDA – SQL Server Project
 
 ## Overview
