@@ -249,7 +249,7 @@ product_aggregations AS (
 ```sql
 SELECT 
     product_key,
-    avg_selling_price,        -- ✅ comma fixed here
+    avg_selling_price,     
     product_name,
     category,
     subcategory,
