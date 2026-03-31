@@ -1,8 +1,8 @@
-# 🛒 Sales EDA – SQL Server Project
+# 🛒 Sales – SQL Server Project
 
 ## Overview
 
-This project is an **Exploratory Data Analysis (EDA)** built entirely in **SQL Server**.  
+This project is built entirely in **SQL Server**.  
 It explores sales, customer, and product data using structured queries and reusable views.
 
 The goal is to extract meaningful business insights — such as customer segmentation, purchase behavior, and sales performance — directly from raw relational data.
